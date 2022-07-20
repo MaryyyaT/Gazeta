@@ -58,7 +58,7 @@ width: 320px;
 }
 .job {
     width: 320px;
-    height: 570px;
+    height: 590px;
 }
 
 .services {
@@ -70,7 +70,7 @@ width: 320px;
 }
 .price{
     width: 320px;
-    height: 930px ;
+    height: 920px ;
 }
 .table__price {
     background-color: #91c5e771;
@@ -110,11 +110,11 @@ width: 320px;
 }
 .magazine{
     width: 320px;
-    height: 810px;
+    height: 820px;
 }
 .magazine__container{
     width: 320px;
-    height: 810px;
+    height: 820px;
 }
 .magazine__inner {
     display: flex;
@@ -136,7 +136,7 @@ width: 320px;
 }
 .chat{
     width: 320px;
-    height: 1100px;
+    height: 1200px;
 }
 .header__link{
     display: none;
