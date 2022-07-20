@@ -23,6 +23,9 @@
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 768px){
+    .container{
+        width: 320px;
+    }
 .logo {
     width: 150px;
 }
