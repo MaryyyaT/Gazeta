@@ -25,12 +25,16 @@
 @media only screen and (max-width : 768px){
 .container{
 width: 320px;
-    }
+height: 3200px;
+}
     .header{
         width: 320px;
     }
 .logo {
     width: 150px;
+}
+.background {
+    width: 320px;
 }
 .hero__title {
     font-size: 30px;
