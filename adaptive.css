@@ -91,7 +91,10 @@ width: 320px;
 }
 .price__title {
     font-size: 20px;
-    text-align: start;
+    text-align: center;
+}
+.hero__tel {
+    margin-left: 70px;
 }
 .information {
     width: 320px;
