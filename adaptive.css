@@ -26,12 +26,24 @@
 .container{
 width: 320px;
     }
+    .header{
+        width: 320px;
+    }
 .logo {
     width: 150px;
 }
 .hero__title {
     font-size: 30px;
     margin-left: 20px;
+    margin-top: -217px;
+}
+.icons {
+    width: 40px;
+    height: 40px;
+}
+.circle{
+    width: 50px;
+    height: 55px;
 }
 .hero__btn {
     width: 110px;
@@ -43,7 +55,14 @@ width: 320px;
 .job {
     width: 320px;
     height: 570px;
+}
 
+.services {
+    height: 650px;
+    width: 320px;
+}
+.services__information {
+    width: 320px;
 }
 }
 	/**/
