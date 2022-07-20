@@ -1,1 +1,1 @@
-Creating new Site.... Loading .... SOON
+https://maryyyat.github.io/Gazeta/
