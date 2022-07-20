@@ -58,10 +58,77 @@ width: 320px;
 }
 
 .services {
-    height: 650px;
+    height: 750px;
     width: 320px;
 }
 .services__information {
+    width: 320px;
+}
+.price{
+    width: 320px;
+}
+.price__title {
+    font-size: 20px;
+    text-align: start;
+}
+.information {
+    width: 320px;
+    height: 110px;
+}
+.banner__title {
+    text-align: center;
+    font-size: 18px;
+}
+.banner__img{
+    width: 320px;
+    height: 60px;
+}
+.magazine{
+    width: 320px;
+    height: 810px;
+}
+.magazine__container{
+    width: 320px;
+    height: 810px;
+}
+.magazine__inner {
+    display: flex;
+    flex-wrap: wrap;
+}
+.magazine__title {
+    font-size: 30px;
+}
+.location{
+    width: 320px;
+    height: 760px;
+}
+.location__inner{
+    display: flex;
+    flex-wrap: wrap;
+}
+.location__title{
+    font-size: 20px;
+}
+.chat{
+    width: 320px;
+    height: 1000px;
+}
+.header__link{
+    display: none;
+}
+.social__ul{
+    display: none;
+}
+.chat__information {
+    width: 320px;
+}
+.services__text {
+    font-size: 15px;
+}
+.chat__text {
+    font-size: 15px;
+}
+.footer{
     width: 320px;
 }
 }
